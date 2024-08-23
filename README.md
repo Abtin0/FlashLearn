@@ -53,8 +53,8 @@ FlashLearn is a flashcard application designed to help users learn French vocabu
 
 ## Acknowledgements
 
-- [CustomTkinter](https://github.com/peperka/customtkinter) for Tkinter widgets.
-- [Pyglet](https://pyglet.org/) for font handling.
-- [Pillow](https://pillow.readthedocs.io/en/stable/) for image processing.
-- [Pandas](https://pandas.pydata.org/) for data handling.
+- [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) for Tkinter widgets.
+- [Pyglet](https://github.com/pyglet/pyglet) for font handling.
+- [Pillow](https://github.com/python-pillow/Pillow) for image processing.
+- [Pandas](https://github.com/pandas-dev/pandas) for data handling.
 
