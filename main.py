@@ -1,10 +1,8 @@
-from tkinter import *
 from customtkinter import *
 import pyglet
 from PIL import Image
 import pandas
 import random
-import pywinstyles
 
 BACKGROUND = "#F1F1F8"
 CARD_BACKGROUND = "#FFFFFF"
