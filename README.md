@@ -1,6 +1,6 @@
 # FlashLearn
 
-FlashLearn is a flashcard application designed to help users learn French vocabulary. The app displays flashcards with Fench words and their English translations on the back, allowing users to test their knowledge.
+FlashLearn is a flashcard application designed to help users learn French vocabulary. The app displays flashcards with French words and their English translations on the back, allowing users to test their knowledge.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Abtin0/FlashLearn/main/images/Screenshot.png" alt="drawing" width="500"/>
